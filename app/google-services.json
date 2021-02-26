@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "803593056785",
+    "project_id": "cleaning-consultancy",
+    "storage_bucket": "cleaning-consultancy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803593056785:android:514ff50641241c93e1f7b0",
+        "android_client_info": {
+          "package_name": "com.example.cleaningconsultancy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803593056785-kv1r4frst1e7nqk360v2q25vru6ond8a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cleaningconsultancy",
+            "certificate_hash": "19d140b0629fa7cced2d9ecefe8027d12f09b4fe"
+          }
+        },
+        {
+          "client_id": "803593056785-s27rlhokqfi9aua1rl672luiqau7icpp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATUXb_fhKu0oUWeBt6ohg7Uskdp9YfzKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803593056785-s27rlhokqfi9aua1rl672luiqau7icpp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
